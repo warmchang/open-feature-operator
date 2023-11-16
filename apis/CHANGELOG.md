@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.2.38](https://github.com/warmchang/open-feature-operator/compare/apis-v0.2.37...apis/v0.2.38) (2023-11-16)
+
+
+### ✨ New Features
+
+* Introduce v1beta1 API version ([#535](https://github.com/warmchang/open-feature-operator/issues/535)) ([3acd492](https://github.com/warmchang/open-feature-operator/commit/3acd49289a40e8f07fd20aad46185ac42ceb1b7a))
+* introduce v1beta1/common package ([#547](https://github.com/warmchang/open-feature-operator/issues/547)) ([cdc4af4](https://github.com/warmchang/open-feature-operator/commit/cdc4af495f370da7165fd67ad9ef54ccf74be3bf))
+* release APIs and Operator independently ([#541](https://github.com/warmchang/open-feature-operator/issues/541)) ([7b1af42](https://github.com/warmchang/open-feature-operator/commit/7b1af42ac41e63ccbb1820b31f579ffea679cff6))
+
+
+### 🧹 Chore
+
+* release apis 0.2.37 ([#544](https://github.com/warmchang/open-feature-operator/issues/544)) ([854e72d](https://github.com/warmchang/open-feature-operator/commit/854e72d964fce51082220a60fc8a7319676e49c3))
+* use github-action for golangci-lint workflow ([#538](https://github.com/warmchang/open-feature-operator/issues/538)) ([a97d336](https://github.com/warmchang/open-feature-operator/commit/a97d336468d5a9b50662f4979784c8388ec10ec1))
+
 ## [0.2.37](https://github.com/open-feature/open-feature-operator/compare/apis-v0.2.36...apis/v0.2.37) (2023-11-15)
 
 
