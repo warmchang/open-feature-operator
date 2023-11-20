@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.3.0](https://github.com/warmchang/open-feature-operator/compare/operator-v0.2.36...operator/v0.3.0) (2023-11-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* use v1beta1 in operator logic ([#539](https://github.com/warmchang/open-feature-operator/issues/539))
+
+### ✨ New Features
+
+* Introduce v1beta1 API version ([#535](https://github.com/warmchang/open-feature-operator/issues/535)) ([3acd492](https://github.com/warmchang/open-feature-operator/commit/3acd49289a40e8f07fd20aad46185ac42ceb1b7a))
+* prepare apis for v1beta1 controllers onboarding ([#549](https://github.com/warmchang/open-feature-operator/issues/549)) ([e3c8b42](https://github.com/warmchang/open-feature-operator/commit/e3c8b4290be99d78b88ffef686531a38b97e61be))
+* release APIs and Operator independently ([#541](https://github.com/warmchang/open-feature-operator/issues/541)) ([7b1af42](https://github.com/warmchang/open-feature-operator/commit/7b1af42ac41e63ccbb1820b31f579ffea679cff6))
+* use v1beta1 in operator logic ([#539](https://github.com/warmchang/open-feature-operator/issues/539)) ([d234410](https://github.com/warmchang/open-feature-operator/commit/d234410a809760ba1c8592f95be56891e0cae855))
+
+
+### 🧹 Chore
+
+* clean up unused API code after moving to v1beta1 ([#543](https://github.com/warmchang/open-feature-operator/issues/543)) ([1287b07](https://github.com/warmchang/open-feature-operator/commit/1287b0785fd99cb8bfeaf9fe112aa8a0ed6f5cf9))
+* **deps:** update actions/setup-node action to v3.8.1 ([#522](https://github.com/warmchang/open-feature-operator/issues/522)) ([32ddf00](https://github.com/warmchang/open-feature-operator/commit/32ddf002e6c20732d990283946ec124304827bd3))
+* release apis 0.2.37 ([#544](https://github.com/warmchang/open-feature-operator/issues/544)) ([854e72d](https://github.com/warmchang/open-feature-operator/commit/854e72d964fce51082220a60fc8a7319676e49c3))
+* use apis tag instead of local replace ([#546](https://github.com/warmchang/open-feature-operator/issues/546)) ([1856918](https://github.com/warmchang/open-feature-operator/commit/18569182c1f2eca3e29e9428a64239ac16ea3c08))
+* use github-action for golangci-lint workflow ([#538](https://github.com/warmchang/open-feature-operator/issues/538)) ([a97d336](https://github.com/warmchang/open-feature-operator/commit/a97d336468d5a9b50662f4979784c8388ec10ec1))
+
 ## [0.2.36](https://github.com/open-feature/open-feature-operator/compare/v0.2.35...v0.2.36) (2023-08-07)
 
 
